@@ -1,3 +1,0 @@
-Hello World!
-st01234 student01 67 3.500000 C 
-st01235 student02 93 3.800000 A 
