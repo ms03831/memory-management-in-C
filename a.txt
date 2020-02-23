@@ -1,0 +1,26 @@
+Mudasir KUT  a.txt
+total 328
+-rwx------  1 mudasir  staff     52 Oct 21 22:00 -al
+-rwx------  1 mudasir  staff    260 Oct 21 22:07 -l
+-rwx------  1 mudasir  staff      0 Oct 21 22:01 2
+-rwxr-xr-x  1 mudasir  staff   8620 Oct 19 17:22 HUsh
+-rw-r--r--  1 mudasir  staff     45 Oct  8 10:13 README.md
+-rw-r--r--  1 mudasir  staff     19 Oct 21 22:41 a.txt
+-rw-r--r--  1 mudasir  staff  10788 Oct 21 22:40 a2q2.c
+-rwxr-xr-x  1 mudasir  staff   8568 Oct 10 19:30 a2q2.o
+-rw-r--r--@ 1 mudasir  staff    565 Oct  8 11:01 cp.c
+-rwxr-xr-x  1 mudasir  staff   8696 Oct  8 11:01 cp.o
+-rw-r--r--  1 mudasir  staff     79 Oct  8 11:03 f.txt
+-rwxr-xr-x@ 1 mudasir  staff    720 Oct  8 10:32 file_input.c
+-rwxr-xr-x  1 mudasir  staff   8756 Oct  8 10:32 fileinput.o
+-rw-r--r--@ 1 mudasir  staff    620 Oct  8 11:00 head.c
+-rwxr-xr-x  1 mudasir  staff   8664 Oct  8 10:55 head.o
+drwxr-xr-x  2 mudasir  staff     64 Oct 21 15:50 hello
+-rwxr-xr-x  1 mudasir  staff   8528 Oct  8 10:32 hello.o
+-rwxr-xr-x@ 1 mudasir  staff    192 Oct 10 19:26 hello_fopen.c
+-rw-r--r--  1 mudasir  staff     79 Oct  8 10:32 helloworld.txt
+-rwxr-xr-x  1 mudasir  staff   9036 Oct 19 17:17 mycat
+-rw-r--r--@ 1 mudasir  staff   1563 Oct 21 19:34 mycat.c
+-rw-r--r--@ 1 mudasir  staff   3470 Oct 21 19:34 mycat1.c
+-rwxr-xr-x  1 mudasir  staff  14404 Oct 21 22:40 q2
+-rwxr-xr-x@ 1 mudasir  staff     55 Oct  7 21:40 students.dat
